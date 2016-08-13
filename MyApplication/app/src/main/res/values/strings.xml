@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geo-Paint</string>
+    <string name="title_activity_main">Geo-Paint</string>
+    <string name="google_maps_key">AIzaSyDI8IvI9d7A7MXr22_6N4szGr1IMaEJA0s</string>
+</resources>

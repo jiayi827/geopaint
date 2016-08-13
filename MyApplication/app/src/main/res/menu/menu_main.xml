@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.uw.jiayi827.geopaint.MainActivity">
+
+    <item
+        android:id="@+id/pen_up"
+        android:orderInCategory="100"
+        android:title="Pause"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/pen_down"
+        android:orderInCategory="100"
+        android:title="Start"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/change_color"
+        android:orderInCategory="100"
+        android:title="Choose Color"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/save"
+        android:orderInCategory="100"
+        android:title="Save Painting"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/share"
+        android:orderInCategory="100"
+        android:title="Share Painting"
+        app:showAsAction="ifRoom" />
+
+</menu>
